@@ -1,30 +1,28 @@
 ![I am harun181](https://github.com/harun181/harun181/blob/main/page.png)
 
 
-<h1 align="center">Hi 👋, I'm HARUN UR ROSHID(Tutul)</h1>
-<h3 align="center">MERN Stack Web Developer and Web Designer of Hablu Programmer</h3>
+<h1 align="center">Hi 👋, I'm Nishan</h1>
+<h3 align="center">I am nothing</h3>
 
-![Profile views](https://gpvc.arturio.dev/harun181) 
+![Profile views](https://gpvc.arturio.dev/nishan979) 
 
-Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designer at Hablu Programmer Team. 
-Knock me: m.facebook.com/tutul.qcsc
+Welcome to my GitHub profile. 
+Knock me: m.facebook.com/nishan979
 
 Skills: PYTHON/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
  
 
-- 🔭 I’m currently working on [Hablu Programmer Team](https://www.youtube.com/habluprogrammer1/)
+- 🔭 I’m currently working on [Gumrox](https://www.youtube.com/gumrox/)
 
 - 🌱 I’m currently learning **JS, Python, React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/harun181)
-
-- 📝 I regularly write articles on [https://www.youtube.com/habluprogrammer1/](https://www.youtube.com/habluprogrammer1/)
+- 👨‍💻 All of my projects are available at [https://github.com/nishan979](https://github.com/nishan979)
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
-- 📫 How to reach me **mdtutul763@gmail.com**
+- 📫 How to reach me **nishanshish@gmail.com**
 
-- 📄 All About Me:[https://linktr.ee/tutul181](https://linktr.ee/tutul181)
+- 📄 All About Me:[https://linktr.ee/nishan979](https://linktr.ee/nishan979)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
