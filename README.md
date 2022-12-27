@@ -1,4 +1,4 @@
-![I am nishan979](https://github.com/nishan979/nishan979/blob/main/page.png)
+![I am nishan979]
 
 
 <h1 align="center">Hi 👋, I'm Nishan</h1>
