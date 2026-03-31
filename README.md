@@ -2,9 +2,9 @@
 ✨ Shahadat Hosen Nishan ✨  
 </h1>  
 
-<p align="center">  
+<!-- <p align="center">  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🚀+Flutter+Developer+%7C+Graphics+Designer;💡+Passionate+Problem+Solver;📱+Building+Scalable+Apps+%7C+Clean+UI/UX;📊+Exploring+AI%2C+Green+Computing+%26+Networking;🔥+Tech+Enthusiast+%7C+Mentor+%7C+Community+Contributor" alt="Typing SVG" />  
-</p>  
+</p>   -->
 
 ---
 
