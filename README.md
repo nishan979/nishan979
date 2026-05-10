@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Nishan+Hossain+%E2%9C%A8;Flutter+Expert+%7C+Mobile+Architect;AI+Integration+%26+Cloud+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Shahadat+Hosen+Nishan+%E2%9C%A8;Flutter+Expert+%7C+Mobile+Architect;AI+Integration+%26+Cloud+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -51,12 +51,13 @@ I am a **Software Professional & Researcher** specializing in the **Flutter** ec
 
 ---
 
+
 ### 📈 Activity & Impact
 
 <p align="center">
-  <img width="490" src="https://github-readme-stats.vercel.app/api?username=nishan979&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nishan's Stats" />
+  <img width="490" src="https://github-readme-stats.shion.dev/api?username=nishan979&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nishan's Stats" />
   <br/>
-  <img width="490" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishan979&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="490" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nishan979&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
