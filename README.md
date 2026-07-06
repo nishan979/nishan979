@@ -1,88 +1,49 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Shahadat+Hosen+Nishan+%E2%9C%A8;Flutter+Expert+%7C+Mobile+Architect;AI+Integration+%26+Cloud+Enthusiast" alt="Typing SVG" />
-</h1>
+# Shahadat Hosen Nishan 🚀
+**Computer Science Researcher | Data Scientist & Software Engineer**  
+📍 Dhaka, Bangladesh  
 
-<p align="center">
-  <a href="https://linkedin.com/in/nishan979"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:nishanshish@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/nishan979"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
+Analytical and research-driven Computer Science Engineer specializing in predictive modeling, artificial intelligence, and complex high-dimensional systems[cite: 4]. Experienced in building mathematical evaluation frameworks to model uncertainty, managing robust data streaming infrastructure, and translating research vectors into optimization code.
 
 ---
 
-### ⚡ About Me
+### 🔬 Core Academic Research Focus
 
-I am a **Software Professional & Researcher** specializing in the **Flutter** ecosystem. With 3+ years of experience in mobile app development, I focus on building high-performance, AI-driven applications with a heavy emphasis on advanced UI/UX (Animations, Glassmorphism, and Clean Architecture).
-
-- 🔭 **Currently Building:** Scaling **ReservON** and enhancing AI-driven mobile experiences.
-- 🎓 **Academic:** CSE Graduate from **Green University of Bangladesh** (CGPA: 3.71).
-- 🧠 **Research Interests:** 6G Networking, Zero Trust Architecture, and AI-driven network optimization.
-- 🌱 **Growth Mindset:** Exploring **Reverse Engineering** (Ghidra/VMware) and **App Store Optimization (ASO)**.
+*   **Adaptive Neuro-Fuzzy Trust Evaluation Framework (Zero-Trust IoT Networks)**  
+    Formulating algorithmic trust metrics utilizing Adaptive Neuro-Fuzzy Inference Systems (ANFIS) to model parametric uncertainty and map node reliability thresholds across decentralized structural networks[cite: 4].
+*   **Seamless 6G Connectivity Optimization (Hybrid Satellite-Terrestrial Topologies)**  
+    Co-authored research focusing on designing predictive, low-latency AI-driven handover optimization algorithms under dynamic structural network constraints[cite: 4].
 
 ---
 
-### 🚀 Technical Arsenal
+### 💻 Featured AI Integration & Production Systems
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <strong>Mobile & Languages</strong><br><br>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-    </td>
-    <td align="center" width="33%">
-      <strong>Backend & Tools</strong><br><br>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    </td>
-    <td align="center" width="33%">
-      <strong>Design & Growth</strong><br><br>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-      <img src="https://img.shields.io/badge/SEO-4E4E4E?style=for-the-badge&logo=google-search-console&logoColor=white" />
-      <img src="https://img.shields.io/badge/Adobe_CC-FF0000?style=for-the-badge&logo=adobe&logoColor=white" />
-      <img src="https://img.shields.io/badge/Marketing-00A4BD?style=for-the-badge&logo=hubspot&logoColor=white" />
-    </td>
-  </tr>
-</table>
+*   **ai_dream_interpretation (Public)** | *Python/Dart Architecture*  
+    Flagship generative AI pipeline featuring custom audio playback integration via Eleven Labs APIs and rigorous state-flow handling using GetX. Translates unstructured linguistic data inputs into multi-modal textual and auditory response payloads.
+*   **ReservON Core Ecosystem (Private Backends)** | *Python/SQL/Dart Framework*  
+    Architected high-concurrency lifecycle reservations engines (`reservon_backend` / `reservon_ai_backend`) utilizing structured relational database models to process high-volume predictive availability queries, minimizing data latency across discovery funnels[cite: 4].
+*   **SafeNet Core Engine (Private)** | *Python Data Security Scripting*  
+    Designed backend data validation scripts focused on secure multi-node communication, system monitoring protocols, and automated anomaly log analysis.
 
 ---
 
+### 📊 Computational Research & Data Labs
 
-### 📈 Activity & Impact
-
-<p align="center">
-  <img width="490" src="https://github-readme-stats.shion.dev/api?username=nishan979&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nishan's Stats" />
-  <br/>
-  <img width="490" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nishan979&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishan979&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+*   **AI-Based Healthcare Diagnosis System** | *Predictive Algorithmic Architecture*  
+    Developed systemic diagnostic modeling blueprints engineered to ingest, map, and process structured patient symptom vectors to output probabilistic predictive outcomes.
+*   **Data Mining & Artificial Intelligence Labs** | *Python Data Core*  
+    A collection of mathematical, extraction, and algorithmic sorting architectures focusing on preprocessing operations, attribute mapping, statistical verification, and exploratory data analysis (EDA).
 
 ---
 
-### 🏆 Key Milestones
+### 🛠️ Technical Stack & Frameworks
 
-- 🚀 **Founder/Lead:** Developed **Echo Chamber** (introvert-focused social app) and **Hifz Pro**.
-- 🎖️ **Leadership:** Served as **General Secretary** for IEEE Student Branch GUB.
-- 🎨 **Creative Excellence:** Runner-up in National Photography Contest & Lead Designer for major tech carnivals.
-- 🎓 **Recognition:** Awarded the **Vice Chancellor’s Certificate** for academic excellence.
+*   **Core Mathematics & Data:** Bayesian Concepts, Probabilistic Modeling, Neuro-Fuzzy Systems (ANFIS), SQL, Dynamic Data Pipelines[cite: 4]
+*   **Languages & Tooling:** Python, Dart, Node.js, C++, C, LaTeX, Shell Scripting[cite: 4]
+*   **Infrastructure & Analytics:** Firebase Analytics, Mixpanel, GA4 Engine, Real-Time System Instrumentation, High-Dimensional Datasets[cite: 4]
+*   **Engineering Pipelines:** LLM/GPT Workflow Acceleration, Git-based version control, Continuous Code Optimization[cite: 4]
 
 ---
 
-### 🎨 Beyond the Code
-
-When I'm not in the IDE, you'll find me:
-- 🕵️ **Investigating** unsolved mysteries and deep-diving into horror lore.
-- ✂️ **Crafting** intricate origami and paper art.
-- 📷 **Capturing** the natural beauty of Bangladesh (Sylhet/Lawachara).
-- ⌨️ **Modding** mechanical keyboards and optimizing my workstation.
-
-<p align="center">
-  <i>"Building technology, designing dreams, and innovating for the future."</i>
-</p>
+### 📈 Communication Channels
+* 💼 **LinkedIn:** [linkedin.com/nishan979](https://linkedin.com/nishan979)[cite: 4]
+* 📧 **Email:** nishashish@gmail.com[cite: 4]
