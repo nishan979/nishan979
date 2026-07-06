@@ -40,13 +40,13 @@ _Note: Core enterprise repository backends (including `reservon_backend`, `reser
 
 ### 🛠️ Technical Stack & Frameworks
 
-*   **Core Mathematics & Data:** Bayesian Concepts, Probabilistic Modeling, Neuro-Fuzzy Systems (ANFIS), SQL, Dynamic Data Pipelines[cite: 4]
-*   **Languages & Tooling:** Python, Dart, Node.js, C++, C, LaTeX, Shell Scripting[cite: 4]
-*   **Infrastructure & Analytics:** Firebase Analytics, Mixpanel, GA4 Engine, Real-Time System Instrumentation, High-Dimensional Datasets[cite: 4]
-*   **Engineering Pipelines:** LLM/GPT Workflow Acceleration, Git-based version control, Continuous Code Optimization[cite: 4]
+*   **Core Mathematics & Data:** Bayesian Concepts, Probabilistic Modeling, Neuro-Fuzzy Systems (ANFIS), SQL, Dynamic Data Pipelines 
+*   **Languages & Tooling:** Python, Dart, Node.js, C++, C, LaTeX, Shell Scripting 
+*   **Infrastructure & Analytics:** Firebase Analytics, Mixpanel, GA4 Engine, Real-Time System Instrumentation, High-Dimensional Datasets 
+*   **Engineering Pipelines:** LLM/GPT Workflow Acceleration, Git-based version control, Continuous Code Optimization 
 
 ---
 
 ### 📈 Communication Channels
 * 💼 **LinkedIn:** [linkedin.com/in/nishan979](https://linkedin.com/in/nishan979)
-* 📧 **Email:** nishashish@gmail.com[cite: 4]
+* 📧 **Email:** nishashish@gmail.com 
